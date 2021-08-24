@@ -4,12 +4,6 @@
 - 🔭 I’m currently working on [BanPAY](https://banpay.com)
 - 🌱 I’m currently learning a lot of stuff 🤪
 - 👯 I’m looking to collaborate on any thing related to JS 
-- 🤔 I’m looking for help with some scientific Scientific Divulgation Project 🧪## Hi there, I'm Emilio ✌
-
-### I'm a Full Stack Developer 💛 JS
-- 🔭 I’m currently working on [BanPAY](https://banpay.com)
-- 🌱 I’m currently learning a lot of stuff 🤪
-- 👯 I’m looking to collaborate on any thing related to JS 
 - 🤔 I’m looking for help with some scientific Scientific Divulgation Project 🧪💻
 
 ### Connect with me:
